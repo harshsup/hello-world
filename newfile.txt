@@ -1,2 +1,4 @@
 some words
 some more words
+
+Testing how GIT works.
